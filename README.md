@@ -32,3 +32,11 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
             <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi,django,git,docker,postgres,mongodb,supabase,azure,aws,cpp,c" />
       </a>
 </p>
+
+---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My GitHub Stats:
+![Haseeb's github streak](https://streak-stats.demolab.com?user=MuhammadHaseebUlHaqq&theme=dark&mode=weekly)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaseebUlHaqq&layout=compact&theme=dark)
+
+⏳ **Year Progress:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50.43% as on ⏰ 4-Jul-2026

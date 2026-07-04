@@ -5,12 +5,32 @@ on:
   schedule:
     - cron: "0 2 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Quote README
     runs-on: ubuntu-latest
     steps:
-      - uses: siddharth2016/quote-readme@main
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: MuhammadHaseebUlHaqq/readme_maker_for_github
+      - uses: actions/checkout@v4
+
+      - name: Fetch a random quote and update README
+        run: |
+          RESPONSE=$(curl -s "https://zenquotes.io/api/random")
+          QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
+          LINE="<i>❝“$QUOTE” — $AUTHOR❞</i>"
+          awk -v line="$LINE" '
+            /<!--STARTS_HERE_QUOTE_README-->/ {print; print line; skip=1; next}
+            /<!--ENDS_HERE_QUOTE_README-->/ {skip=0}
+            !skip {print}
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update quote of the day"
+          git push

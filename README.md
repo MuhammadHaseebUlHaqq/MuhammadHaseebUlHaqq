@@ -51,3 +51,10 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 - 🌲 [Forest Cover Type Prediction](https://forestcoverpredictionml-proj.streamlit.app/) — multi-class ML model comparison (LogReg/SVM/KNN/RF/XGBoost/LightGBM), ~0.89 validation accuracy, deployed on Streamlit.
 
 ▶ [... more on GitHub](https://github.com/MuhammadHaseebUlHaqq?tab=repositories)
+
+---
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Fact/Quote of the Day:
+<!--START_SECTION:quote-->
+• Loading a fresh quote...
+<!--END_SECTION:quote-->

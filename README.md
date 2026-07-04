@@ -55,9 +55,11 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 ---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Fact/Quote of the Day:
-<!--START_SECTION:quote-->
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
 • Loading a fresh quote...
-<!--END_SECTION:quote-->
+<!--ENDS_HERE_QUOTE_README-->
+</a>
 
 ---
 

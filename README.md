@@ -40,3 +40,14 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaseebUlHaqq&layout=compact&theme=dark)
 
 ⏳ **Year Progress:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50.43% as on ⏰ 4-Jul-2026
+
+---
+
+### <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="23" /> Featured Projects:
+- 🏆 [Bideez](https://github.com/bilalrana351/bideez) — multi-agent RFP pipeline (decide → create → verify → defend) with human-in-the-loop gates, pgvector RAG, and a voice rehearsal mode. **CUST Hackathon 2026 winner.**
+- 🔬 [LLM Inference Optimization](https://github.com/bilalrana351/llm-inference-optimization) — measured HuggingFace vs vLLM benchmarking on a single GPU, with KV-cache OOM experiments checked against analytical predictions.
+- 🤖 [BotVerse](https://github.com/MuhammadHaseebUlHaqq/BotVerse) — RAG-based multi-bot chatbot platform: FastAPI + LangChain + Pinecone, embeddable per-site bots with isolated knowledge bases.
+- 🚗 [RideTogether](https://ridetogether.vercel.app) — campus carpooling platform for NUST students: React + Node/Express + MongoDB, real-time matching via Leaflet.js maps.
+- 🌲 [Forest Cover Type Prediction](https://forestcoverpredictionml-proj.streamlit.app/) — multi-class ML model comparison (LogReg/SVM/KNN/RF/XGBoost/LightGBM), ~0.89 validation accuracy, deployed on Streamlit.
+
+▶ [... more on GitHub](https://github.com/MuhammadHaseebUlHaqq?tab=repositories)

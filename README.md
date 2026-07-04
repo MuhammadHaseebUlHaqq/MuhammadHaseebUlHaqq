@@ -58,3 +58,10 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 <!--START_SECTION:quote-->
 • Loading a fresh quote...
 <!--END_SECTION:quote-->
+
+---
+
+### <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="29" /> A Pinch of Humour:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, refresh again to view" width="600" />
+
+---

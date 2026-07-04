@@ -18,3 +18,8 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 </p>
 
 ![](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🎓 BS Computer Science student at **NUST (SEECS)**, Islamabad — GPA 3.78/4.0, Dean's Honor List (4 of 5 semesters)
+- 🔭 Currently researching **LLM inference optimization** — measuring HuggingFace vs vLLM serving behavior, including KV-cache OOM experiments checked against analytical predictions
+- 🏆 Won 1st place at **CUST Hackathon 2026** (160+ competing teams) with *Bideez*, a multi-agent RFP pipeline with human-in-the-loop gates

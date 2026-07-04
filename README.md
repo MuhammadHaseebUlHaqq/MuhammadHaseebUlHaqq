@@ -16,3 +16,5 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="30" style="display:inline-block;" />
   </a>
 </p>
+
+![](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)

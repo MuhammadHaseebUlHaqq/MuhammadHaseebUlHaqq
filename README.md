@@ -54,12 +54,13 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 
 ### A Fact/Quote of the Day:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝”The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
+> “The data speaks for itself. That’s the easiest measure of success.”
+> — **Caitlin Smallwood**
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
 
 ### aaagggggggg:
-Argentina: back-to-back World Cup champions, 2022 and 2026 — some stories are just meant to be written twice.
+> Argentina are the 2022 World Cup champions — and if 2026 goes their way too, that's back-to-back glory still being written into history.
 
 ---

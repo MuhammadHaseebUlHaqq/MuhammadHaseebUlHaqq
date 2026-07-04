@@ -20,9 +20,10 @@ jobs:
           RESPONSE=$(curl -s "https://zenquotes.io/api/random")
           QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q')
           AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
-          LINE="<i>❝“$QUOTE” — $AUTHOR❞</i>"
-          awk -v line="$LINE" '
-            /<!--STARTS_HERE_QUOTE_README-->/ {print; print line; skip=1; next}
+          LINE1="> \"$QUOTE\""
+          LINE2="> — **$AUTHOR**"
+          awk -v l1="$LINE1" -v l2="$LINE2" '
+            /<!--STARTS_HERE_QUOTE_README-->/ {print; print l1; print l2; skip=1; next}
             /<!--ENDS_HERE_QUOTE_README-->/ {skip=0}
             !skip {print}
           ' README.md > README.tmp && mv README.tmp README.md

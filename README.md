@@ -37,7 +37,7 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My GitHub Stats:
 ![Haseeb's github streak](https://streak-stats.demolab.com?user=MuhammadHaseebUlHaqq&theme=dark&mode=weekly)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaseebUlHaqq&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=MuhammadHaseebUlHaqq&layout=compact&theme=dark)
 
 ⏳ **Year Progress:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50.43% as on ⏰ 4-Jul-2026
 
@@ -63,7 +63,12 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 
 ---
 
-### <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="29" /> A Pinch of Humour:
+### 💭 Favourite Line:
+> _Add your favourite line/quote here — tell me the exact text and I'll drop it in._
+
+---
+
+### <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="29" /> aaagggggggg:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, refresh again to view" width="600" />
 
 ---

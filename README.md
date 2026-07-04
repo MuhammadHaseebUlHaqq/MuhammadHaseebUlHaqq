@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there!
 
 I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in Islamabad, Pakistan.
 
@@ -19,7 +19,7 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 
 ![](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### About Me:
 - 🎓 BS Computer Science student at **NUST (SEECS)**, Islamabad — GPA 3.78/4.0, Dean's Honor List (4 of 5 semesters)
 - 🔭 Currently researching **LLM inference optimization** — measuring HuggingFace vs vLLM serving behavior, including KV-cache OOM experiments checked against analytical predictions
 - 🏆 Won 1st place at **CUST Hackathon 2026** (160+ competing teams) with *Bideez*, a multi-agent RFP pipeline with human-in-the-loop gates
@@ -63,14 +63,7 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 
 ---
 
-### 💭 Favourite Line:
-> _Add your favourite line/quote here — tell me the exact text and I'll drop it in._
-
----
-
-### <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="29" /> aaagggggggg:
-aregtnina is winning back to back wc
-
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, refresh again to view" width="600" />
+### aaagggggggg:
+Argentina: back-to-back World Cup champions, 2022 and 2026 — some stories are just meant to be written twice.
 
 ---

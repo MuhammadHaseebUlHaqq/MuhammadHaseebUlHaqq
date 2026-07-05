@@ -54,8 +54,8 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 
 ### A Fact/Quote of the Day:
 <!--STARTS_HERE_QUOTE_README-->
-> “The data speaks for itself. That’s the easiest measure of success.”
-> — **Caitlin Smallwood**
+> "True masters are those who've chosen to make a life rather than a living."
+> — **Neale Donald Walsch**
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

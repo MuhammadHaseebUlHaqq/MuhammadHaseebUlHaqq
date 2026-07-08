@@ -54,8 +54,8 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 
 ### A Fact/Quote of the Day:
 <!--STARTS_HERE_QUOTE_README-->
-> "When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."
-> — **Paramahansa Yogananda**
+> "Where the willingness is great, the difficulties cannot be great."
+> — **Niccolo Machiavelli**
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

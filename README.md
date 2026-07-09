@@ -54,8 +54,8 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 
 ### A Fact/Quote of the Day:
 <!--STARTS_HERE_QUOTE_README-->
-> "Where the willingness is great, the difficulties cannot be great."
-> — **Niccolo Machiavelli**
+> "Most people fail in life because they major in minor things."
+> — **Tony Robbins**
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

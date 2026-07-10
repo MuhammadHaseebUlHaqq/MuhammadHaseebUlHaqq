@@ -50,17 +50,4 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 
 - [... more on GitHub](https://github.com/MuhammadHaseebUlHaqq?tab=repositories)
 
----
 
-### A Fact/Quote of the Day:
-<!--STARTS_HERE_QUOTE_README-->
-> "We have to live life with a sense of urgency so not a minute is wasted."
-> — **Les Brown**
-<!--ENDS_HERE_QUOTE_README-->
-
----
-
-### aaagggggggg:
-> Argentina are the 2022 World Cup champions — and if 2026 goes their way too, that's back-to-back glory still being written into history.
-
----

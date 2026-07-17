@@ -24,7 +24,7 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 - Currently researching **LLM inference optimization** — measuring HuggingFace vs vLLM serving behavior, including KV-cache OOM experiments checked against analytical predictions
 - Won 1st place at **CUST Hackathon 2026** (160+ competing teams) with *Bideez*, a multi-agent RFP pipeline with human-in-the-loop gates
 - AI Automation Engineer @ Corzly · Web Dev Intern @ Alfabolt · AI Engineer (freelance) on Upwork
-- Varsity footballer at NUST (3 years), Vice Captain of the SEECS team — also a multi-time FIFA tournament winner
+- Love Football
 - Tech I work with:
 
 <p align="center">

@@ -43,8 +43,8 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 ---
 
 ### Featured Projects:
-- [Bideez](https://github.com/bilalrana351/bideez) — multi-agent RFP pipeline (decide → create → verify → defend) with human-in-the-loop gates, pgvector RAG, and a voice rehearsal mode. **CUST Hackathon 2026 winner.**
-- [LLM Inference Optimization](https://github.com/bilalrana351/llm-inference-optimization) — measured HuggingFace vs vLLM benchmarking on a single GPU, with KV-cache OOM experiments checked against analytical predictions, profiler traces of the decode gap, and a reproduced SGLang CUDA-graph slowdown (5.76x). [Write-ups](https://rajahaseebulhaq.live/blog).
+- [Bideez](https://bideez-frontend.vercel.app) — multi-agent RFP pipeline (decide → create → verify → defend) with human-in-the-loop gates, pgvector RAG, and a voice rehearsal mode. **CUST Hackathon 2026 winner.**
+- [LLM Inference Optimization](https://github.com/MuhammadHaseebUlHaqq/llm-inference-optimization) — measured HuggingFace vs vLLM benchmarking on a single GPU, with KV-cache OOM experiments checked against analytical predictions, profiler traces of the decode gap, and a reproduced SGLang CUDA-graph slowdown (5.76x). [Write-ups](https://rajahaseebulhaq.live/blog).
 - [Distributed SGD](https://github.com/MuhammadHaseebUlHaqq/distributed_sgd_pdc) — synchronous, asynchronous, and hybrid parameter-server training of ResNet-18 on CIFAR-10, measured under injected stragglers across three seeds.
 - [BotVerse](https://github.com/MuhammadHaseebUlHaqq/BotVerse) — RAG-based multi-bot chatbot platform: FastAPI + LangChain + Pinecone, embeddable per-site bots with isolated knowledge bases.
 - [RideTogether](https://ridetogether.vercel.app) — campus carpooling platform for NUST students: React + Node/Express + MongoDB, real-time matching via Leaflet.js maps.

@@ -12,7 +12,7 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
   <a href="https://www.upwork.com/freelancers/~01383f23af82b030e7" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/upwork.svg" height="30" style="display:inline-block;" />
   </a>
-  <a href="https://haseebulhaq.vercel.app/" target="_blank">
+  <a href="https://rajahaseebulhaq.live" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="30" style="display:inline-block;" />
   </a>
 </p>
@@ -22,6 +22,7 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - BS Computer Science student at **NUST (SEECS)**, Islamabad 
 - Currently researching **LLM inference optimization** — measuring HuggingFace vs vLLM serving behavior, including KV-cache OOM experiments checked against analytical predictions
+- Writing up what I measure on my blog: [rajahaseebulhaq.live/blog](https://rajahaseebulhaq.live/blog)
 - Won 1st place at **CUST Hackathon 2026** (160+ competing teams) with *Bideez*, a multi-agent RFP pipeline with human-in-the-loop gates
 - AI Automation Engineer @ Corzly · Web Dev Intern @ Alfabolt · AI Engineer (freelance) on Upwork
 - Love Football
@@ -43,9 +44,11 @@ I'm **Muhammad Haseeb Ul Haq** — CS student, AI/full-stack builder, based in I
 
 ### Featured Projects:
 - [Bideez](https://github.com/bilalrana351/bideez) — multi-agent RFP pipeline (decide → create → verify → defend) with human-in-the-loop gates, pgvector RAG, and a voice rehearsal mode. **CUST Hackathon 2026 winner.**
-- [LLM Inference Optimization](https://github.com/bilalrana351/llm-inference-optimization) — measured HuggingFace vs vLLM benchmarking on a single GPU, with KV-cache OOM experiments checked against analytical predictions.
+- [LLM Inference Optimization](https://github.com/bilalrana351/llm-inference-optimization) — measured HuggingFace vs vLLM benchmarking on a single GPU, with KV-cache OOM experiments checked against analytical predictions, profiler traces of the decode gap, and a reproduced SGLang CUDA-graph slowdown (5.76x). [Write-ups](https://rajahaseebulhaq.live/blog).
+- [Distributed SGD](https://github.com/MuhammadHaseebUlHaqq/distributed_sgd_pdc) — synchronous, asynchronous, and hybrid parameter-server training of ResNet-18 on CIFAR-10, measured under injected stragglers across three seeds.
 - [BotVerse](https://github.com/MuhammadHaseebUlHaqq/BotVerse) — RAG-based multi-bot chatbot platform: FastAPI + LangChain + Pinecone, embeddable per-site bots with isolated knowledge bases.
 - [RideTogether](https://ridetogether.vercel.app) — campus carpooling platform for NUST students: React + Node/Express + MongoDB, real-time matching via Leaflet.js maps.
+- [Facial Emotion Recognition](https://github.com/MuhammadHaseebUlHaqq/facial_emotion_recognition) — CNN on FER-2013 classifying seven emotions, compared against MLP, optimizer, and MobileNetV2 transfer-learning variants; 58.3% test accuracy, Flask demo.
 - [Forest Cover Type Prediction](https://forestcoverpredictionml-proj.streamlit.app/) — multi-class ML model comparison (LogReg/SVM/KNN/RF/XGBoost/LightGBM), ~0.89 validation accuracy, deployed on Streamlit.
 
 - [... more on GitHub](https://github.com/MuhammadHaseebUlHaqq?tab=repositories)
